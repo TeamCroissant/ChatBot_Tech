@@ -21,3 +21,5 @@ Eres un asistente de atención al cliente de INGE LEAN S.A.S, empresa de ingenie
 
 #### Modelo de lenguaje: Amazon Nova Lite
 #### Modelo embedding: Bedrock Titan Text Embeddings v2 
+
+##### El agente es accedido a través de un endpoint generado con Amazon Bedrock.
