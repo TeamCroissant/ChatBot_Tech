@@ -10,9 +10,6 @@ Ingenieros de manufactura, mantenimiento y electrónica; técnicos de apoyo; esp
 ciberseguridad, big data y metodologías ágiles como Scrum.​
 ## ¿Inge-Lean solo opera en Colombia?​
 No, tiene presencia nacional e internacional, incluyendo operaciones en España y Paraguay.​
-¿Qué tecnologías usan para la automatización de procesos industriales?​
-Utilizamos controladores lógicos programables (PLC), robots, sistemas SCADA, sensores, y tecnologías
-de la información.​
 ## ¿Cómo funciona su sistema de automatización de parqueaderos?​
 Incluye software de control vehicular, reconocimiento de placas (ANPR), RFID, apertura de talanqueras,
 tiqueteo y gestión de caja.​
@@ -25,6 +22,9 @@ datos y machine learning.​
 ## ¿Qué es la tarjeta NFC que ofrecen?​
 Una tarjeta con tecnología de comunicación cercana (NFC) que permite transferir datos al acercarse a un
 dispositivo, y que también integra códigos QR para visualización de información.​
+## ¿Qué tecnologías usan para la automatización de procesos industriales?​
+Utilizamos controladores lógicos programables (PLC), robots, sistemas SCADA, sensores, y tecnologías
+de la información.​
 ## ¿Han tenido casos de éxito demostrables?​
 Sí, desarrollamos una tarjeta electrónica que, atada a un computador industrial, es capaz de manejar un
 variador de velocidad de alta potencia, interactuar con sensores externos
